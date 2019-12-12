@@ -1,0 +1,23 @@
+{
+  "short_name": "Intermachine Dev",
+  "name": "Intermachine developers",
+  "keywords": [
+    "intermachine developers",
+    "desarrollo web",
+    "desarrollo movil multiplataforma",
+    "sesiones fotogr�ficas",
+    "sitio web sin JQuery"
+  ],
+  "author": "Intermachine Developers",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#90caf9",
+  "background_color": "#ffffff"
+}
